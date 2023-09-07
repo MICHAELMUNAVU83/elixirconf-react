@@ -90,6 +90,12 @@ function App() {
           and understand that information will be used as described in our
           <span className="text-[#AD3989] font-semibold"> Privacy Policy </span>
         </p>
+
+        <div className="flex justify-end w-[100%]">
+          <div className="flex items-center px-4 py-3 text-white rounded-[4px] justify-center bg-[#AD3989]">
+            Register
+          </div>
+        </div>
       </div>
     </div>
   );
